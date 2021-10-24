@@ -1,5 +1,5 @@
 #        Code Repository for the Paper
-##"Identification of the Generalized Condorcet Winner in Multi-dueling Bandits"
+## "Identification of the Generalized Condorcet Winner in Multi-dueling Bandits"
        (To appear in: Proceedings of NeurIPS2021)
 
 The code is written in Python 3.7.
