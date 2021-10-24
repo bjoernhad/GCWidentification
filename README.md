@@ -43,3 +43,4 @@ bandit case (m=k), simply execute "NeurIPS_LB_comparison.py".
 
 - The results for (B) are only shown in the terminal and not saved to any file.
 
+In case of any questions, please contact Björn Haddenhorst (bjoernha@mail.upb.de).
